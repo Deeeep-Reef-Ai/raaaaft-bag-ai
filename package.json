@@ -1,0 +1,24 @@
+{
+  "name": "raaaaft-bag-ai",
+  "version": "1.0.0",
+  "description": "The Raaaaft.io Bag AI Project",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deeeep-Reef-Ai/raaaaft-bag-ai.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Deeeep-Reef-Ai/raaaaft-bag-ai/issues"
+  },
+  "homepage": "https://github.com/Deeeep-Reef-Ai/raaaaft-bag-ai#readme",
+  "dependencies": {
+    "electron": "^23.0.0",
+    "electron-log": "^5.0.0-beta.16"
+  }
+}
